@@ -1,25 +1,17 @@
-### Olá, eu sou o Rhuann 👋
+## Olá, eu sou o Rhuann
 
-Software Engineer com foco em **backend**. Trabalho com **PHP/Laravel** em sistemas para os setores financeiro e de varejo: APIs, integrações com ERP, processamento assíncrono e infraestrutura na AWS.
+Software Engineer com foco em **backend**. Construo APIs, integrações e processamento assíncrono em **PHP/Laravel** para os setores financeiro e de varejo, com infraestrutura na AWS.
 
 Hoje sou desenvolvedor na **Sicoob UniCentro Br**, em Goiânia.
 
----
+## 🔧 O que eu faço
 
-#### 🔧 O que eu faço
-
-- **APIs e serviços backend** em Laravel, inclusive sobre runtimes assíncronos (Swoole, FrankenPHP)
+- **APIs e serviços backend** em Laravel, incluindo alta performance com Laravel Octane (Swoole, FrankenPHP)
 - **Integrações**: ERP, e-commerce (VTEX) e parceiros financeiros, com filas (RabbitMQ) e webhooks
 - **Banco de dados**: modelagem e otimização de consultas em MySQL e PostgreSQL
+- **Qualidade**: testes automatizados (Pest/PHPUnit) e pipelines de CI/CD
 - **Automação**: RPA e OCR para eliminar trabalho manual
-- **Cloud e DevOps**: AWS (ECS, EC2, Lambda, S3), Docker, Terraform e pipelines de CI/CD
-
-#### 📈 Alguns resultados
-
-- Automação de lançamento de notas fiscais com OCR + RPA: **mais de 1.000 notas por ciclo**, de uma semana de trabalho para **menos de 1 hora**
-- Otimização de consultas sobre milhões de registros: de **2 minutos para 2 segundos**
-- Sincronização ERP → VTEX de **mais de 5.000 produtos por dia**, substituindo atualização manual
-- Pré-preenchimento do cadastro de crédito (CDC): de **~20 para ~5 minutos** por cliente
+- **Cloud e DevOps**: AWS (ECS, EC2, Lambda, S3), Docker e Terraform
 
 #### 🛠️ Stack
 
